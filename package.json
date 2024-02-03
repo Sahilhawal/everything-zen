@@ -5,6 +5,7 @@
   "description": "",
   "icon": "zen.png",
   "version": "0.0.2",
+  "repository": "https://github.com/Sahilhawal/everything-zen",
   "engines": {
     "vscode": "^1.84.0"
   },
