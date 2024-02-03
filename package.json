@@ -1,0 +1,23 @@
+{
+  "name": "everything-zen",
+  "publisher": "sahilhawal",
+  "displayName": "everything-zen",
+  "description": "",
+  "icon": "zen.png",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Everything Zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Everything Zen-color-theme.json"
+      }
+    ]
+  }
+}
